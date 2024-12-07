@@ -192,7 +192,7 @@ nav.sticky{
 
 /*Requirements Section*/
 .requirements{
-    margin-top: 50px;
+    margin-top: 150px;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -250,7 +250,7 @@ nav.sticky{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 74px;
+    margin-top: 150px;
 }
 
 .pets-headlines{
@@ -339,12 +339,22 @@ nav.sticky{
     align-items: center;
 }
 
+.a-logo{
+    width: 25px;
+    height: 50px;
+    font-size: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 .about-info-item h5{
     font-size: 36px;
     font-weight: 800;
 }
 
 .about-info-item h6{
+    text-align: center;
     font-size: 24px;
     font-weight: 700;
 }
